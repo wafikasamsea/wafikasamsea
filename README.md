@@ -1,5 +1,7 @@
 ### Hi there, I'm Samm 👋
 I'm Information System and Tech student passionate about data analyzing and machine learning. Highly-capable leader, having led multiple projects to completion. Proficient in a range of modern technologies. 
+
+📫 Reach me through https://www.linkedin.com/in/wafikasamsea/
 <!--
 **wafikasamsea/wafikasamsea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
